@@ -1,0 +1,13 @@
+setup.py
+my_An/__init__.py
+my_An/items.py
+my_An/middlewares.py
+my_An/pipelines.py
+my_An/settings.py
+my_An/spiders/__init__.py
+my_An/spiders/app1.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
